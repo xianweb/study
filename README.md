@@ -1,1 +1,1 @@
-# ѧϰgit
+﻿# student git 
